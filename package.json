@@ -1,1 +1,12 @@
+{
+  "name": "danesh-writes",
+  "version": "1.0.0",
+  "description": "Dynamic blog using Eleventy + Netlify CMS",
+  "scripts": {
+    "build": "eleventy"
+  },
+  "dependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  }
+}
 
